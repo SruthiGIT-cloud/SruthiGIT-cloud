@@ -3,10 +3,10 @@
 <h3 align="center"> Machine Learner | MICROSOFT POWER BI | Frontend Developer </h3>
 
 
-- 🌱 I’m currently learning to solve programs by logical approach
+- 🌱 I’m currently learning to solve programs by logical approach👩🏻‍💻
 - 💬 Ask me about Power BI implementation using Microsoft Desktop
-- 📫 How to reach me: [Twitter-@Sruthiar](https://twitter.com/Sruthiar?s=08)
-                      [LinkedIn-@SruthiAR](https://www.linkedin.com/in/sruthi-a-r-932740200)
+- 📫 How to reach me: <br>[Twitter-@Sruthiar](https://twitter.com/Sruthiar?s=08)<br>
+               [LinkedIn-@SruthiAR](https://www.linkedin.com/in/sruthi-a-r-932740200)
 - 😄 Pronouns: She/Her
 
 
