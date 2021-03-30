@@ -12,7 +12,7 @@
 
 ### Github Statistics
 
-![image](https://user-images.githubusercontent.com/78865129/112623229-1d010280-8e52-11eb-81a6-2159a651d66e.png)
+[<img src="https://github-readme-stats.vercel.app/api?username="SruthiGIT-cloud width="400"/>](https://github-readme-stats.vercel.app/api?username=SruthiGIT-cloud)
 
 
 ### Languages
