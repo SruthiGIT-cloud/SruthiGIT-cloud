@@ -12,7 +12,6 @@
 
 ### Github Statistics
 
-[<img src="https://github-readme-stats.vercel.app/api?username="SruthiGIT-cloud width="400"/>](https://github-readme-stats.vercel.app/api?username=SruthiGIT-cloud)
 
 
 ### Languages
