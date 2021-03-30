@@ -10,4 +10,11 @@
 - 😄 Pronouns: She/Her
 
 
+### Github Statistics
+
 ![image](https://user-images.githubusercontent.com/78865129/112623229-1d010280-8e52-11eb-81a6-2159a651d66e.png)
+
+
+### Languages
+
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SruthiGIT-cloud&langs_count=8&layout=compact" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=SruthiGIT-cloud&langs_count=8&layout=compact)
