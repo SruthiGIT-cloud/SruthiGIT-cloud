@@ -16,3 +16,12 @@
 ### Languages
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SruthiGIT-cloud&langs_count=8&layout=compact" width="400"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=SruthiGIT-cloud&langs_count=8&layout=compact)
+
+
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg"/></div>
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/></div>
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg"/></div>
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg"/></div>
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/></div>
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg"/></div>
+<img width="55" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBebySBIuhaTd4uOi1iRVVg5CvJKB-i4kvUg&usqp=CAU"/></div>
