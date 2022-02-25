@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm <a href ="https://www.linkedin.com/in/sruthi-a-r-932740200">Sruthi A R</a> 👋</h1>
 <h3 align="center">Being authenticated towards work</h3>
-<h3 align="center"> Machine Learner | MICROSOFT POWER BI | Frontend Developer </h3>
+<h3 align="center"> Budding Java Full Stack Developer </h3>
 
 
 - 🌱 I’m currently learning to solve programs by logical approach👩🏻‍💻
-- 💬 Ask me about Power BI implementation using Microsoft Desktop
+- 💬 Ask me about Power BI implementation using Microsoft Desktop 
 - 📫 How to reach me: <br>[Twitter-@Sruthiar](https://twitter.com/Sruthiar?s=08)<br>
                [LinkedIn-@SruthiAR](https://www.linkedin.com/in/sruthi-a-r-932740200)
 - 😄 Pronouns: She/Her
